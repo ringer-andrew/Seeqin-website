@@ -144,14 +144,14 @@
 	-webkit-transition: background 0.2s, color 0.2s;
 	-moz-transition: background 0.2s, color 0.2s;
 	transition: background 0.2s, color 0.2s;
-	color: #B3C833;
+	color: #0698d7;
 }
 
 .hi-icon-effect-1 .hi-icon:after {
 	top: -7px;
 	left: -7px;
 	padding: 7px;
-	box-shadow: 0 0 0 4px #B3C833;
+	box-shadow: 0 0 0 4px #0698d7;
 	-webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
 	-webkit-transform: scale(.8);
 	-moz-transition: -moz-transform 0.2s, opacity 0.2s;
@@ -179,7 +179,7 @@
 /* Effect 1b */
 .no-touch .hi-icon-effect-1b .hi-icon:hover {
 	background: rgba(255,255,255,1);
-	color: #B3C833;
+	color: #0698d7;
 }
 
 .hi-icon-effect-1b .hi-icon:after {

@@ -10,10 +10,8 @@ $(function(){
 $(function() {
 	$.vegas('slideshow', {
 	  backgrounds:[
-		{ src:'images/image001.jpg', fade:1000, delay: 9000 },
-		{ src:'images/image005.jpg', fade:1000, delay: 9000 },
-		{ src:'images/image003.jpg', fade:1000, delay: 9000 },
-		{ src:'images/image004.jpg', fade:1000, delay: 9000 }
+		{ src:'images/iStock_000001461045Small.jpg', fade:1000, delay: 9000 },
+		{ src:'images/iStock_000010580026Medium_mini.jpg', fade:1000, delay: 9000 }
 	  ]
 	})('overlay', {
 	  src:'assets/third/vegas/overlays/02.png'
